@@ -17,7 +17,7 @@ export default {
     quotes: [
       {
         content: "Бросайте дизайн",
-        author: "Pokras Lampas"
+        author: "Покрас Лампас"
       },
       {
         content: "Ты пидор",
